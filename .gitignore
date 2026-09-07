@@ -1,0 +1,13 @@
+# Publish only the reviewed distribution files.
+/*
+!/.gitignore
+!/README.md
+!/LICENSE
+!/SKILL.md
+!/references/
+!/agents/
+/references/*
+!/references/design.md
+!/references/image-generation.md
+/agents/*
+!/agents/openai.yaml

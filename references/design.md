@@ -1,0 +1,25 @@
+# Design Guidelines
+
+- **Develop the proposal**
+  - From the user's request, develop the subject, essential components, overall flow, and distinctive behavior or relationships.
+  - Choose the main drawings according to the kind of request:
+    - Product or website UI: use multiple screen mockups and relevant objects to communicate the user's journey toward their goal. If the request focuses on a particular screen or part, center the proposal on that subject.
+    - Slide design: use a single slide to communicate the main message and how its information is grouped.
+    - Concept or explanatory diagram: communicate the relationships among elements and how the system or mechanism works.
+  - Consider the number and rough arrangement of the main drawings and the necessary basic labels.
+- **Select content for the sheet**
+  - Select the drawings, explanations, and notes needed to understand the proposal.
+  - For notes, consider the following information and identify the parts it concerns:
+    - How each part helps people understand or act, the experience it supports, and the intent behind its design.
+    - Points given particular care and the reasons for design decisions.
+    - Alternatives and discarded ideas considered, what was compared, and why an idea was set aside.
+    - Hypotheses, unresolved questions, and matters to confirm.
+    - Information supporting a decision.
+  - Include intent and considerations supplied by the user. There is no need to fill every category.
+  - Use names and functional explanations to supplement what drawings and labels alone do not make clear.
+  - Tie explanations of intent and experience to the specific parts they concern.
+- **Pass the design to the image generation model**
+  - Pass the selected content concisely, together with the parts it concerns.
+  - Provide background, requirements, and constraints separately as context for understanding the design.
+  - Leave shortening the wording, merging repetition, choosing between drawings and text, and detailed placement to the image generation model, while preserving the meaning of the selected content.
+  - Attach the full Image Generation Guidelines verbatim.

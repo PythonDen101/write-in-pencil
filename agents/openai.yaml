@@ -1,0 +1,4 @@
+interface:
+  display_name: "Write in Pencil"
+  short_description: "Explore ideas as pencil-on-paper brainstorming sketches"
+  default_prompt: "Use $write-in-pencil to explore this task as a pencil-on-paper brainstorming sketch that reveals the thinking behind it."

@@ -1,0 +1,56 @@
+# Image Generation Guidelines
+
+- **Content: what to communicate**
+  - Develop the supplied outline into a concrete proposal while preserving the user's requirements, constraints, and intent.
+  - Communicate the subject, situation, how the whole proposal connects, and what each part does.
+  - Represent all supplied content selected for the sheet while preserving its meaning. Background and constraints guide the design and do not all need to appear as text.
+  - For readability, shorten wording, merge repetition, and choose between drawings and text without losing the supplied meaning.
+  - Where useful, add refinements, alternatives, and considerations that emerge while developing the concrete proposal.
+  - Ground factual claims in supplied evidence.
+- **Composition: reading order, amount, and placement**
+  - Place a title and a brief explanation at the upper left of the paper so viewers can understand what the sheet is about.
+  - Arrange the main drawings in a natural reading order.
+  - Use scale and whitespace to guide viewers from the whole proposal to its details.
+  - Place supporting content near the relevant parts, smaller and less prominent than the main drawings.
+  - Adjust information density for the readability of the whole sheet and keep repetition to a minimum.
+- **Depiction: how to express the content**
+  - **Drawings**
+    - Use basic labels to identify what each drawing represents.
+    - Preserve familiar proportions of real objects such as phones or computers.
+    - A detail can be shown separately as a part, with a clear connection to the whole.
+  - **Explanations and notes**
+    - Express how the part helps people understand or act and what its design intends to achieve.
+    - Write brief, natural statements near each specific subject and connect them with leader lines.
+    - Do not add category headings or emphatic exclamation or question marks.
+  - **Alternatives and traces of exploration**
+    - Accompany alternatives and discarded ideas with small sketches that make them imaginable.
+    - Mark discarded ideas with a light pencil cross or strike-through.
+    - Preserve meaningful traces of exploration naturally, such as early ideas, light construction lines, redrawing, and eraser marks.
+  - **Relationships and movement**
+    - Use hand-drawn arrows to show connections between drawings or states.
+    - When interactions are present, use hand-drawn circles to mark action points and arrows from those points to their results.
+    - When distinctive movement or change is present, show it through small sketches of the object in motion or before and after the change.
+- **Materials and photography: visual finish**
+  - **Paper**
+    - Color: Soft neutral white, `#F7F7F7` to `#FAFAFA`.
+    - Texture: Fine paper fibers with a very subtle grain.
+  - **Pencil**
+    - Line width: 0.5 mm.
+    - Hardness: HB for main lines, 2H for light construction lines.
+    - Retain graphite-gray lines, faint smudges, and occasional broken strokes.
+  - **Handwriting and strokes**
+    - Careful, designer-style handwriting.
+    - Keep text upright, slightly rounded, widely spaced, legible, and consistent.
+    - Preserve subtle hand-drawn wobbles, pressure variations, and tonal variation.
+  - **Color**
+    - Draw the main drawings, illustrations, screen mockups, and the images and components within them in monochrome graphite pencil.
+    - Use color as a supporting accent for explanatory text, annotations, circles, arrows, and similar explanatory marks:
+      - Blue (`#6F8FBC` or `#AFC4E3`) for important information.
+      - Orange (`#D7A05C`) for hesitations, confirmations, warnings, and items under consideration.
+  - **Photography**
+    - View the paper from almost directly above, with it occupying about 95% of the frame.
+    - Use soft neutral daylight from the upper left, casting faint shadows along the right and bottom edges.
+    - Show a warm wood-grain desk as a thin border around the paper.
+  - **Props**
+    - Place a 0.5 mm mechanical pencil and an eraser near the paper's edge.
+    - Limit props to one or two items, crop them partially out of frame, and keep them secondary to the main subject.
