@@ -11,3 +11,6 @@
 !/references/image-generation.md
 /agents/*
 !/agents/openai.yaml
+!/assets/
+/assets/*
+!/assets/introductory-post.png
