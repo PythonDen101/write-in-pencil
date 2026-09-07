@@ -2,6 +2,10 @@
 
 An AI agent skill for exploring ideas through pencil-on-paper sketches.
 
+This is the skill featured in [this post on X](https://x.com/momotarabitch/status/2094962393025806638).
+
+[こちらの投稿で紹介したスキルです。](https://x.com/momotarabitch/status/2094962393025806638)
+
 Use it for product UI concepts, single-slide ideas, and diagrams that explain relationships or how something works. The sketch includes the proposal and useful notes about its intent and alternatives.
 
 Main drawings use monochrome graphite. Blue and orange annotations add emphasis. Results are exploratory raster images, not finished UI, editable slides, or exact-text documents.
